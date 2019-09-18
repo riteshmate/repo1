@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 482F-DCB5
+
+ Directory of C:\Users\ritesh_mate\Desktop\Git Sample
+
+09/18/2019  12:09 PM    <DIR>          .
+09/18/2019  12:09 PM    <DIR>          ..
+09/18/2019  12:09 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  115,977,187,328 bytes free
